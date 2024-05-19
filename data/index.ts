@@ -107,33 +107,17 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Vaibhav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project.",
-      name: "Aman",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "VaibhaV's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Vaibhav is the ideal partner.",
-      name: "Ayush",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
         "Vaibhav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Vaibhav is the ideal partner.",
-      name: "Akarsh",
-      title: "Director of AlphaStream Technologies",
+      name: "Ayush Saxena",
+      title: "Software Developer Engineer III at Flipkart Private Limited",
+      img: "/ayush.png",
     },
     {
       quote:
-        "Collaborating with Vaibhav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Vaibhav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Vaibhav is the ideal partner.",
-      name: "Shrey",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Vaibhav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Vaibhav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Vaibhav is the ideal partner.",
-      name: "Shahbaaz",
-      title: "Director of AlphaStream Technologies",
+        "Vaibhav's vibrant enthusiasm for every aspect of development shines brilliantly. His dedication to creating exceptional digital experiences makes him an invaluable partner. If you're aiming to elevate your website and strengthen your brand's presence, Vaibhav's creativity and expertise will bring your vision to life.",
+      name: "Akarsh Saxena",
+      title: "Software Developer Engineer I at Fiserv India Private Limited",
+      img: "/akarsh.png",
     },
   ];
   
@@ -173,31 +157,17 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "C++ Developer Intern",
+      desc: "Assisted in the development of a EDA based application using C++, Verilog and VHDL, developing algorithms, features and enhancing performance.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Freelance Web Developer",
+      desc: "Designed and developed web applications using React, Angular and Next, providing backend services using Node and integrating databases PostgreSQL and MongoDB",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
-    },
-    {
-      id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp3.svg",
-    },
-    {
-      id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
-      className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
     },
   ];
   
