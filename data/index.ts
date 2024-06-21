@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently learning new technologies",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,11 +72,11 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "StarBURG Pharmaceuticals",
-      des: "In need of any emergency get prescribed medicines at your doorstep",
+      title: "Zoom Clone",
+      des: "Video Conferencing Application just like ZOOM",
       img: "/project1.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg"],
-      link: "https://starburg.in/",
+      link: "https://zoom-clone-taupe-eta.vercel.app/",
     },
     {
       id: 2,
